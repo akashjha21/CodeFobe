@@ -9,3 +9,9 @@ Step 5: Go to a Folder and run code "git clone (link of this repo)"
 Step 5: Now install the necessary packages( run npm i or yarn ) 
 Step 6: Now connect your mobile with your laptop through USB(if you are having Android Studio and having emulator in that then no need to connect mobile)
 Step 7: run command "npm run android"
+
+
+
+
+https://github.com/user-attachments/assets/52638e03-089d-448d-82c4-e069194fca96
+
